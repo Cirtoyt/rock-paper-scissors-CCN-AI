@@ -1,4 +1,4 @@
-# rock-paper-scissors-CCN-AI
+# rock-paper-scissors-CNN-AI
 
 This is a basic implementation of a CNN ML algorithm that detects the hand pose of players playing Rock, Paper, Scissors from a first-person perspective image.
 The algorithm trains and learns to identify if an image is of a person posing their hand as either rock, paper, or scissors
